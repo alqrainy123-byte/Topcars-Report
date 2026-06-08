@@ -1,8 +1,7 @@
 # Nomu Al Ghurair Digital Careers Launchpad - Data Analysis Graduation Project
 
 ## 📌 Project Goal:
-Practicing advanced Power BI techniques to prepare for a real-world project. The interactive report helps management easily read important insights and make strategic decisions accordingly. 
----
+Practicing advanced Power BI techniques in preparing for a real-world project. The interactive report helps management easily read important insights and make strategic decisions accordingly.
 
 ## 📊 My Contribution: Salesperson Analysis
 Created a Power BI report page that displays and analyzes salesperson performance using specific visuals:
