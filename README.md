@@ -7,7 +7,8 @@ Practicing advanced Power BI techniques to build a real-world project. The inter
 ## 📊 My Contribution: Salesperson Analysis
 Created a Power BI report page that displays and analyzes salesperson performance using specific visuals:
 
-* **Clustered Bar & Donut Chart:** To visualize and compare sales metrics.
+**Clustered Bar**:To displays the total commission for each salesperson
+** Donut Chart:** To displays total orders handled by each salesperson
 * **Decomposition Tree:** To display and break down the **total orders**  based on several categories [e.g. salesperson name, Month, Manufacture, Model, Vehicle_type]
 * **KPI Cards:**
   * Displays the **total commission** for each salesperson.
